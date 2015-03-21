@@ -35,7 +35,7 @@
   .grid__col-3{ width: 83.33%; }
   .grid__col-4{ width: 100%; } 
   .grid__col-5{ width: 100%; }
-  .grid__row .col-2:last-of-type{ width: 100%; }
+  .grid__row .grid__col-2:last-of-type{ width: 100%; }
   .grid__row .grid__col-5 ~ .grid__col-1{ width: 100%; }
 }
 @media all and (max-width:650px){
